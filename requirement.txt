@@ -9,3 +9,8 @@ langchain-core
 altair
 pypdf
 bs4
+pandas
+plotly
+yfinance
+pandas-datareader
+prophet
